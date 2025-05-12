@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_FenQANPaEe6-SMhTRhqZBg">
+    <contextParameter comment="" name="Chicago_out_AdditionalParams" prompt="Chicago_out_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" xmi:id="_FenQAdPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Login" prompt="Chicago_out_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root" xmi:id="_FenQAtPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Database" prompt="Chicago_out_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="damg7370" xmi:id="_FenQA9PaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Port" prompt="Chicago_out_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306" xmi:id="_FenQBNPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Password" prompt="Chicago_out_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:eYUwwKjldSBsBVyS/KMOVaOn6CIn5PaQl0EDvLXU/PJqPL3TLg==" xmi:id="_FenQBdPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Server" prompt="Chicago_out_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost" xmi:id="_FenQBtPaEe6-SMhTRhqZBg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Dev" xmi:id="_FenQB9PaEe6-SMhTRhqZBg">
+    <contextParameter comment="" name="Chicago_out_AdditionalParams" prompt="Chicago_out_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" xmi:id="_FenQCNPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Login" prompt="Chicago_out_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root" xmi:id="_FenQCdPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Database" prompt="Chicago_out_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="damg7370" xmi:id="_FenQCtPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Port" prompt="Chicago_out_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306" xmi:id="_FenQC9PaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Password" prompt="Chicago_out_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:PU8x7SRBBGKoPwTQP2kvdIoY7YgdC8O8+wNB2xPmFjoMM4onzA==" xmi:id="_FenQDNPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Server" prompt="Chicago_out_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost" xmi:id="_FenQDdPaEe6-SMhTRhqZBg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Prod" xmi:id="_FenQDtPaEe6-SMhTRhqZBg">
+    <contextParameter comment="" name="Chicago_out_AdditionalParams" prompt="Chicago_out_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" xmi:id="_FenQD9PaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Login" prompt="Chicago_out_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root" xmi:id="_FenQENPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Database" prompt="Chicago_out_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="damg7370" xmi:id="_FenQEdPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Port" prompt="Chicago_out_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306" xmi:id="_FenQEtPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Password" prompt="Chicago_out_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:fy8TkKwUq3VoVMa6uezzEqpTRCdmwrp1N9W9rME8YXrmmgy47Q==" xmi:id="_FenQE9PaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Server" prompt="Chicago_out_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost" xmi:id="_FenQFNPaEe6-SMhTRhqZBg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_FenQFdPaEe6-SMhTRhqZBg">
+    <contextParameter comment="" name="Chicago_out_AdditionalParams" prompt="Chicago_out_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" xmi:id="_FenQFtPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Login" prompt="Chicago_out_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root" xmi:id="_FenQF9PaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Database" prompt="Chicago_out_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="damg7370" xmi:id="_FenQGNPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Port" prompt="Chicago_out_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306" xmi:id="_FenQGdPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Password" prompt="Chicago_out_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:kkmjYIZmu+U6WmjqpTtgNd9w/GFzA2iGyxPOa7F/Jo7Mp7E0Bg==" xmi:id="_FenQGtPaEe6-SMhTRhqZBg"/>
+    <contextParameter comment="" name="Chicago_out_Server" prompt="Chicago_out_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost" xmi:id="_FenQG9PaEe6-SMhTRhqZBg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_04621335-4722-4f48-99b5-2886bf62bfd1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>om1sB8hOBf9GhgtB3V3HKMoDP3vaqQUkWyYxlxXv3plqasZw/4TZZ3xH/Js1A9rV5lhBhzd3rhqE&#13;
+cni41RA2FA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8f951ce1-79fd-43e4-b95d-7f7f4acde911"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>kYiUFV2BM7jxb/aDwad6HevXFNrJJdCiIl+4YjSj/PTfoWaJ6bx90I7yaZLG4kWifPJqu8iR0J2z&#13;
++g8JiCZtDg==</DigestValue></Reference></SignedInfo><SignatureValue>LGFrRsyeNJhwMItvbOtKhh+bt9izsrkxAR17mlucRhvEQ/WmBqx5DB3xVlWfRTfwwQqWIr7aQQz/&#13;
+kIgN3OU0G1JGV03gtKS41IljavgZqv16IfZPuwasSXLosjufvxqFXZqIRkxKmVR2GL5iAlp5R1pg&#13;
+cqrZYOHy2Ap89axtg5ElTT83JvNOZOey2882D51F86LhNR78KErZCdTtZecpuY7Y2v4NMfw6eHc+&#13;
+30gIEVMmkVE0D5d6WvWS32kxT4zHGiJwaHdEjy0F2+73GGjk3G4EkpB+Nh7zTzWeukHSTPCIeg/K&#13;
+fJDXcAnSCJBWr4Myqr0800At+vNsSKIPHaV81A==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8f951ce1-79fd-43e4-b95d-7f7f4acde911" Target="#_04621335-4722-4f48-99b5-2886bf62bfd1"><Timestamp>2024-02-25 12:33:31</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
