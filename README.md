@@ -82,5 +82,5 @@ Screenshots of the dashboards can be found in the `/dashboards/powerbi_screensho
 
 ---
 
-## 🗂️ Suggested Project Structure
+
 
